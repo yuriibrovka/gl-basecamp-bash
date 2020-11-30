@@ -34,4 +34,3 @@ else
   esac
   echo -e "\nSuccess with code" "$?"
 fi
-2>&1 >/dev/null
